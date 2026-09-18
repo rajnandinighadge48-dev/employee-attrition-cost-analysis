@@ -221,3 +221,8 @@ BBA – Human Resource Management
 Aspiring HR Analyst | HR Analytics & People Insights
 
 **Skills:** Python • SQL • Advanced Excel • Tableau • HR Analytics
+
+
+## 📊 Tableau Dashboard
+
+[View Interactive Tableau Dashboard](https://public.tableau.com/views/HREmployeeAttritionCostAnalysisDashboard/HREmployeeAttritionCostAnalysisDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
